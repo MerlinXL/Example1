@@ -23,7 +23,7 @@ public class Class1 {
 		car1.applyBrake(20);
 		System.out.println(car1.getSpeed());
 		
-		car1.setGear(2);
+		car1.setGear(3);
 		int intGear =car1.getGear();
 		System.out.println("Gear = " + intGear);
 		

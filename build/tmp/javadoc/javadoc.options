@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\MerlinXL\\Eclipseworkspace\\Project1\\build\\classes\\main;C:\\Users\\MerlinXL\\Eclipseworkspace\\Project1\\build\\resources\\main;C:\\Users\\MerlinXL\\.gradle\\caches\\modules-2\\files-2.1\\commons-collections\\commons-collections\\3.2\\f951934aa5ae5a88d7e6dfaa6d32307d834a88be\\commons-collections-3.2.jar'
+-d 'C:\\Users\\MerlinXL\\Eclipseworkspace\\Project1\\build\\docs\\javadoc'
+-doctitle 'Project1 1.0 API'
+-quiet 
+-windowtitle 'Project1 1.0 API'
+'C:\\Users\\MerlinXL\\Eclipseworkspace\\Project1\\src\\main\\java\\com\\company\\Class1.java'
+'C:\\Users\\MerlinXL\\Eclipseworkspace\\Project1\\src\\main\\java\\org\\gradle\\Person.java'

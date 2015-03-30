@@ -46,6 +46,6 @@ public class Class1 {
 				
 		Email email1 = new Email("simon@merlinxl.com","mat@merlinxl.com","Hello World");
 		
-		System.out.println("Mail length = " + email1.charactersInMessage());
+		System.out.println("Mail character length = " + email1.charactersInMessage());
 	}
 }
